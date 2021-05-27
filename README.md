@@ -1,5 +1,5 @@
 # PrhasesBreakingBad
-This is a small project that shows phrases of breaking bad, build with react js, using styled components. 
+This is a small project that shows phrases of breaking bad, build with react js, using styled components, and consuming external API.
 ## DEMO
 
 you can check the DEMO in this link (in spanish): 
